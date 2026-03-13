@@ -17,11 +17,7 @@
 </ol>
 
 ## Program
-```
-Developed by:ABHEEK A
-Reg No: 212224100001
 
-```
 ```
 M = 9
 def puzzle(a):
